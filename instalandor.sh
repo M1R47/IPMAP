@@ -31,6 +31,8 @@ cd 0
 clear
 mv ipmap.sh -t /data/data/com.termux/files/home/ipmap
 clear
+cd ../.
+cleae
 chmod +x ipmap.sh
 clear
 bash ipmap.sh
