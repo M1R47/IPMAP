@@ -27,11 +27,10 @@ clear
 git clone 	https://github.com/M1R47-T3RMUX/M1R47-T3RMUX
 sleep 1
 clear
-cd M1R47-T3RMUX/M1R47-T3RMUX
+cd 0
 clear
 mv ipmap.sh -t cd /data/data/com.termux/files/home/ipmap
 clear
-rm -rf M1R47-T3RMUX/M1R47-T3RMUX
 chmod +x ipmap.sh
 clear
 bash ipmap.sh
