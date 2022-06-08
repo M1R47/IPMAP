@@ -24,7 +24,7 @@ echo instalando...
 clear
 pkg install wget -y
 clear
-git clone 	https://github.com/M1R47-T3RMUX/M1R47-T3RMUX
+git clone 	https://github.com/M1R47-T3RMUX/0
 sleep 1
 clear
 cd 0
