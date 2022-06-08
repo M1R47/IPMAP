@@ -29,7 +29,7 @@ sleep 1
 clear
 cd 0
 clear
-mv ipmap.sh -t cd /data/data/com.termux/files/home/ipmap
+mv ipmap.sh -t /data/data/com.termux/files/home/ipmap
 clear
 chmod +x ipmap.sh
 clear
