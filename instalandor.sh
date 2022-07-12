@@ -24,7 +24,7 @@ echo instalando...
 clear
 pkg install wget -y
 clear
-git clone 	https://github.com/M1R47/RECUERSO
+git clone 	https://github.com/M1R47/RECUERSOS
 sleep 1
 clear
 cd 0
